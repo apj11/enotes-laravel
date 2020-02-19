@@ -1,0 +1,13 @@
+pwd
+choose path 
+ls
+git init
+git add .
+git status
+git commit -m " "
+git push -u origin master
+
+
+
+
+git clone http path 
